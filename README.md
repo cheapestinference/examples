@@ -4,15 +4,9 @@ Code examples for [CheapestInference](https://cheapestinference.com) — a flat-
 
 ## What is CheapestInference?
 
-One API for every open-source model (DeepSeek, Qwen, Llama, Kimi, Gemma). Fixed monthly price. Uses the standard OpenAI and Anthropic SDKs — just change the base URL.
+One API for every open-source model (DeepSeek, Qwen, Llama, Kimi, Gemma). Fixed monthly price. Uses the standard OpenAI and Anthropic SDKs — just change the base URL. Pay with card or USDC on Base L2.
 
-| Plan | Price | RPM | Budget/5h window |
-|------|-------|-----|-------------------|
-| Standard | $20/mo | 60 | $0.14 |
-| Pro | $60/mo | 200 | $0.42 |
-| Credits | $10+ top-up | 60 | Pay-as-you-go |
-
-Pay with card (Stripe) or USDC on Base L2. No auto-renewal.
+See [current plans and pricing](https://cheapestinference.com/pricing).
 
 ## Quick start
 
